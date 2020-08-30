@@ -1,3 +1,6 @@
+
+
+
 ## Teori Bahasa dan Otomata
 
 Perkenalkan, saya Yanuarsyah Fitrah Indra (D121181318) Angkatan 2018 Teknik Informatika Universitas Hasanuddin. Pembahasan kita kali ini ialah mengenai salah satu mata kuliah yang wajib diikuti oleh mahasiswa Teknik Informatika, yaitu Teori Bahasan dan Otomata yang merupakan mata kuliah yang cenderung bersifat teoritis dan tidak memuat hal-hal yang 'praktis' untuk diterapkan langsung dalam praktik. Untuk lebih jelasnya, kalian dapat membaca penjelasan dibawah.
